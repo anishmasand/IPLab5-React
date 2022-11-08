@@ -1,0 +1,13 @@
+
+.image{
+    width: 70px;
+    height:70px;
+    border-radius:150px;
+    margin-left: 30vw;
+}
+.blockquote-footer{
+    white-space: nowrap;
+}
+.blockquote{
+    white-space: nowrap;
+}
